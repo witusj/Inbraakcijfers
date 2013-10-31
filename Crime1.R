@@ -1,7 +1,6 @@
 library("RCurl")
 library("XML")
 
-setwd("C:/Users/NB/Google Drive/Data Analysis/Inbraak Nijmegen")
 
 # Function to retrieve specific number from text
 getCrimeNumber <- function(text) {
